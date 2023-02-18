@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T17:27:16.761543400Z</date>
+  <millis>1676741236761</millis>
+  <nanos>543400</nanos>
+  <sequence>0</sequence>
+  <logger>seminar2_homework.task04</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task04</class>
+  <method>logo</method>
+  <thread>1</thread>
+  <message>6.0*7.0=42.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T17:27:16.817396400Z</date>
+  <millis>1676741236817</millis>
+  <nanos>396400</nanos>
+  <sequence>1</sequence>
+  <logger>seminar2_homework.task04</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task04</class>
+  <method>logo</method>
+  <thread>1</thread>
+  <message>0.0+3.0=3.0</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T17:27:16.823374Z</date>
+  <millis>1676741236823</millis>
+  <nanos>374000</nanos>
+  <sequence>2</sequence>
+  <logger>seminar2_homework.task04</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task04</class>
+  <method>logo</method>
+  <thread>1</thread>
+  <message>3.0+42.0=45.0</message>
+</record>
+</log>

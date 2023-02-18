@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T21:04:32.433722Z</date>
+  <millis>1676754272433</millis>
+  <nanos>722000</nanos>
+  <sequence>0</sequence>
+  <logger>seminar2_homework.task02</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task02</class>
+  <method>Logo</method>
+  <thread>1</thread>
+  <message>[-33, 22, -52, 10, -3]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T21:04:32.492578600Z</date>
+  <millis>1676754272492</millis>
+  <nanos>578600</nanos>
+  <sequence>1</sequence>
+  <logger>seminar2_homework.task02</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task02</class>
+  <method>Logo</method>
+  <thread>1</thread>
+  <message>[-33, -52, 22, 10, -3]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T21:04:32.498560500Z</date>
+  <millis>1676754272498</millis>
+  <nanos>560500</nanos>
+  <sequence>2</sequence>
+  <logger>seminar2_homework.task02</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task02</class>
+  <method>Logo</method>
+  <thread>1</thread>
+  <message>[-33, -52, 10, 22, -3]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T21:04:32.503554400Z</date>
+  <millis>1676754272503</millis>
+  <nanos>554400</nanos>
+  <sequence>3</sequence>
+  <logger>seminar2_homework.task02</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task02</class>
+  <method>Logo</method>
+  <thread>1</thread>
+  <message>[-33, -52, 10, -3, 22]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T21:04:32.510517800Z</date>
+  <millis>1676754272510</millis>
+  <nanos>517800</nanos>
+  <sequence>4</sequence>
+  <logger>seminar2_homework.task02</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task02</class>
+  <method>Logo</method>
+  <thread>1</thread>
+  <message>[-52, -33, 10, -3, 22]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T21:04:32.514507Z</date>
+  <millis>1676754272514</millis>
+  <nanos>507000</nanos>
+  <sequence>5</sequence>
+  <logger>seminar2_homework.task02</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task02</class>
+  <method>Logo</method>
+  <thread>1</thread>
+  <message>[-52, -33, 10, -3, 22]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T21:04:32.518495600Z</date>
+  <millis>1676754272518</millis>
+  <nanos>495600</nanos>
+  <sequence>6</sequence>
+  <logger>seminar2_homework.task02</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task02</class>
+  <method>Logo</method>
+  <thread>1</thread>
+  <message>[-52, -33, -3, 10, 22]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T21:04:32.528469Z</date>
+  <millis>1676754272528</millis>
+  <nanos>469000</nanos>
+  <sequence>7</sequence>
+  <logger>seminar2_homework.task02</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task02</class>
+  <method>Logo</method>
+  <thread>1</thread>
+  <message>[-52, -33, -3, 10, 22]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T21:04:32.534454300Z</date>
+  <millis>1676754272534</millis>
+  <nanos>454300</nanos>
+  <sequence>8</sequence>
+  <logger>seminar2_homework.task02</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task02</class>
+  <method>Logo</method>
+  <thread>1</thread>
+  <message>[-52, -33, -3, 10, 22]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-18T21:04:32.538443600Z</date>
+  <millis>1676754272538</millis>
+  <nanos>443600</nanos>
+  <sequence>9</sequence>
+  <logger>seminar2_homework.task02</logger>
+  <level>INFO</level>
+  <class>seminar2_homework.task02</class>
+  <method>Logo</method>
+  <thread>1</thread>
+  <message>[-52, -33, -3, 10, 22]</message>
+</record>
+</log>
